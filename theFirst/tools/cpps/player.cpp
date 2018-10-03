@@ -5,5 +5,3 @@
 
 
 people player;
-player.age = 21;
-player.sex = true;
